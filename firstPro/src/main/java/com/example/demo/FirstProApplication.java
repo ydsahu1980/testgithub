@@ -8,7 +8,7 @@ public class FirstProApplication {
 
 	public static void main(String[] args) {
 		SpringApplication.run(FirstProApplication.class, args);
-		System.out.println("This is first pro");
+		System.out.println("This is first pro ... demo");
 	}
 
 }
